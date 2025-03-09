@@ -7,6 +7,9 @@
   <p>
     <strong> << Developer >> </strong><br>
   </p>
+    <p>
+    <strong>  I barely use github...  </strong><br>
+  </p>
 
 </div>
 
