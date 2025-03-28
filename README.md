@@ -10,6 +10,7 @@
     <p>
     <strong>  I barely use github...  </strong><br>
     <strong>  https://qduo.xyz/ </strong><br>
+    <strong>  Email Me at: duo@qduo.xyz </strong><br>
   </p>
 
 </div>
