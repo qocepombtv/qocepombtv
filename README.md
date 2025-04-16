@@ -25,7 +25,7 @@
   
 </div>
 
-<h3 align="center">💻 Languages I know!</h3>
+<h3 align="center">💻 Skills </h3>
 
 <div align="center">
   
