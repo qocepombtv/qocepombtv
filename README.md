@@ -1,6 +1,7 @@
 <h1 align="center"> Hey, I'm duo!</h1>
 
 <div align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/1084594366401749093?borderRadius=&idleMessage=&bg=000000)](https://discord.com/users/1084594366401749093)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=qocepombtv&color=blueviolet)](https://github.com/qocepombtv)
   
