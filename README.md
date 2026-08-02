@@ -7,7 +7,6 @@
   
   <p>
     <strong> << Developer >> </strong><br>
-   <strong> << Backend Developer @  https://operix.app/  / https://operixapp.xyz >> </strong><br>
   </p>
     <p>
     <strong>  I barely use github...  </strong><br>
